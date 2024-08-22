@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋! My name is "Amr Mohamad" <br>from .... Egypt<hr>Full Stack | Software Engineering</h1>
 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;YouTuber)](https://git.io/typing-svg)
+
 ###
 
 <div align="center">
