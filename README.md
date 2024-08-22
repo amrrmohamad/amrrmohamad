@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is "Amr Mohamad" <br>from .... Egypt<br>Full Stack | Software Engineering</h2>
+<h1 align="left">Hi 👋! My name is "Amr Mohamad" <br>from .... Egypt<hr>Full Stack | Software Engineering</h1>
 
 ###
 
