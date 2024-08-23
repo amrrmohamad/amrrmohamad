@@ -8,10 +8,6 @@
   <img height="200" src="https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif"  />
 </div>
 
-<div align="right">
-  <img height="200" src="https://media1.tenor.com/images/a173cac068bc55e8c7e1bcf7bc34b608/tenor.gif?itemid=3961385"  />
-</div>
-
 ###
 
 <p align="left">I'm interested in Web development, DevOps, Software Engineering & Artificial Intelligence<br>I am at faculty of computer science ......</p>
