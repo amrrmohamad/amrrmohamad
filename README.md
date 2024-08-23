@@ -4,8 +4,12 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif"  />
+</div>
+
+<div align="right">
+  <img height="200" src="[https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/10/a9988dee7cde9c364f7b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240823T065106Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ba6f8fc78582e2f7fe57ca30ccecaf45c2b1ae4b8084705150381eed560fb982)"  />
 </div>
 
 ###
