@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm interested in Web development, DevOps, Software Engineering & Artificial Intelligence<br>I am at faculty of computer science ......</p>
+<p align="left">I'm interested in Web development, DevOps, Software Engineering & CyberSecurity <br>I have a degree in computer science ......</p>
 
 ###
 
