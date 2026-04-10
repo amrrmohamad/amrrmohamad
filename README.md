@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! <br> This is "Amr Mohamad" <br></h1>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=26&width=500&lines=+Software+Engineer;Back-end Developer+CyberSecurity!;Student;computer+science)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=26&width=500&lines=+Software+Engineer;Back-end+Developer+CyberSecurity!;Student;computer+science)](https://git.io/typing-svg)
 
 ###
 
