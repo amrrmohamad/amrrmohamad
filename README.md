@@ -19,7 +19,9 @@
 - **Collage** Computer Science
 - **Hobbies:** Networking, CyberSec, WebDev, DevOps
 - **Favorite OS/Distro:** Windows & Linux
+
 <!-- - **Working @:** - -->
+<br>
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,7 +55,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amrrmohamad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=amrrmohamad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amrrmohamd&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrrmohamad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -81,11 +83,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/amrrmohamad/amrrmohamad/output/snake.svg" alt="Snake animation" />
-
-##
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tempewda/tempewda/output/github-contribution-grid-snake-dark.svg">
