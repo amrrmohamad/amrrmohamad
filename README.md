@@ -7,11 +7,6 @@
 <div align="left">
   <img height="200" src="https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif"  />
 </div>
-
-###
-
-<p align="left">I'm interested in Web development, DevOps, Software Engineering & CyberSecurity <br>I have a degree in computer science ......</p>
-
 ###
 
 <h2 align="center">🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
@@ -25,7 +20,7 @@
 - **Hobbies:** Networking, CyberSec, WebDev, DevOps
 - **Favorite OS/Distro:** Windows & Linux
 <!-- - **Working @:** - -->
-
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
