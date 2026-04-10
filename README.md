@@ -14,6 +14,18 @@
 
 ###
 
+<h2 align="center">🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
+
+<a align="center" href="https://ariaf.my.id">
+  <img src="https://raw.githubusercontent.com/ariafatah0711/ariafatah0711/main/asset/1.gif" align="right" width="280"/>
+</a>
+
+- **Name:** Amr Mohamad
+- **Collage** Computer Science
+- **Hobbies:** Networking, CyberSec, WebDev, DevOps
+- **Favorite OS/Distro:** Windows & Linux
+<!-- - **Working @:** - -->
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -78,7 +90,12 @@
 
 <img src="https://raw.githubusercontent.com/amrrmohamad/amrrmohamad/output/snake.svg" alt="Snake animation" />
 
-###
+##
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
+</p>
+
 <!---
 amrrmohamad/amrrmohamad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
