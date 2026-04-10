@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! <br> This is "Amr Mohamad" <br></h1>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=26&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;computer+science)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=26&width=500&lines=+Software+Engineer;Back-end Developer+CyberSecurity!;Student;computer+science)](https://git.io/typing-svg)
 
 ###
 
@@ -92,9 +92,11 @@
 
 ##
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!---
 amrrmohamad/amrrmohamad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
