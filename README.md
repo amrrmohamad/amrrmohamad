@@ -22,7 +22,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 <img align="right" alt="Coding Animation" width="400" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 ```javascript
-cconst Sachintha = {
+const Amrr = {
   location: "Egypt - Cairo",
   background: "Back-end Developer & CyberSecurity Engineer with a passion for quality-driven development",
   focus: "Building robust applications, ensuring software reliability, and optimizing user experience",
