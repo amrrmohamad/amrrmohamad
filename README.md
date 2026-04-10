@@ -75,7 +75,7 @@ skills();
 <h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 
 <div align="center">
-  </a> -->
+  </a>
   
   <p align="center">
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amrrmohamad&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
